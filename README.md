@@ -1,3 +1,11 @@
+# GitMurf notes to self
+
+- I created this fork originally to track my progress but found out there is a vscode extension instead that can track progress locally and complete the challenges in vscode.
+    - Here is the extension I am using: https://marketplace.visualstudio.com/items?itemName=YRM.type-challenges
+    - Therefore this forked repo is not necessary
+
+# Original README below
+
 <p align='center'>
   <img src='./screenshots/logo.svg' width='400'/>
 </p>
